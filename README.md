@@ -38,4 +38,4 @@ Autotrader Partner API stock/lead sync, AI-assisted reply workflows, and interna
 
 [Portfolio](https://savithathsara.me) · [LinkedIn](https://www.linkedin.com/in/savithathsara) · [Email](mailto:blsthathsara@gmail.com)
 
-Open to graduate / junior roles in **AI Automation**, **Software Engineering**, and **Full-stack** — Manchester and wider UK.
+Open to graduate / junior roles in **AI Automation**, **Software Engineering**, and **Full-stack** across the UK.
